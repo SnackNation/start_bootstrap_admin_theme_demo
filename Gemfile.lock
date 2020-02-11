@@ -150,6 +150,8 @@ GEM
       actionpack (>= 4.0)
       activesupport (>= 4.0)
       sprockets (>= 3.0.0)
+    start_bootstrap_admin_theme (0.1.0)
+      rails (~> 6.0.2, >= 6.0.2.1)
     thor (1.0.1)
     thread_safe (0.3.6)
     tilt (2.0.10)
@@ -185,6 +187,7 @@ DEPENDENCIES
   sass-rails (>= 6)
   spring
   spring-watcher-listen (~> 2.0.0)
+  start_bootstrap_admin_theme
   turbolinks (~> 5)
   tzinfo-data
   web-console (>= 3.3.0)
